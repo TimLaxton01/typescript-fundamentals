@@ -1,15 +1,23 @@
 {
   "name": "understanding-ts",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "Tim Laxton",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimLaxton01/typescript-one.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TimLaxton01/typescript-one/issues"
+  },
+  "homepage": "https://github.com/TimLaxton01/typescript-one#readme",
+  "description": ""
 }
